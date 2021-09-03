@@ -1,0 +1,24 @@
+.main-page-container__headerTitle {
+  display: flex;
+  font-size: 2.5rem;
+  height: 100px;
+}
+
+.sub-document-list {
+  border-top: 1px solid #e4e4e4;
+  padding: 20px 10px;
+}
+
+.sub-document-list__item {
+  /* border: 1px solid #c4c4c4; */
+  padding: 10px 5px;
+  margin-bottom: 3px;
+  transition: background ease-in 0.15s;
+}
+.sub-document-list__item:hover {
+  background: #edece9;
+}
+
+.sub-document-list__item:active {
+  background: #d3d1cb;
+}

@@ -1,0 +1,20 @@
+.main-page-container__editor {
+  display: flex;
+  flex-direction: column;
+  height: 70%;
+}
+
+.main-page-container__titleEditor {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 5vh;
+  border: none;
+  outline: none;
+}
+
+.main-page-container__contentEditor {
+  font-size: 1.2rem;
+  border: none;
+  outline: none;
+  height: 100%;
+}

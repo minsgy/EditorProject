@@ -1,0 +1,17 @@
+.guide-page-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+.guide-page-container__Header {
+  margin-bottom: 5vh;
+  font-size: 2.5rem;
+  background: #e4e4e4;
+}
+
+.guide-page-container__InfoImg {
+  width: 100%;
+}

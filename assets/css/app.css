@@ -1,0 +1,18 @@
+#app {
+  font-size: 14px;
+  font-family: sans-serif;
+  height: 100vh;
+  display: flex;
+}
+
+.side-page-container {
+  width: 340px;
+  background-color: rgb(247, 246, 243);
+}
+
+.main-page-container {
+  width: 60%;
+  padding: 10%;
+  display: flex;
+  flex-direction: column;
+}
